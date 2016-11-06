@@ -1,4 +1,4 @@
-# Cohort {{number}}
+# Cohort 7
 
 ## Welcome to Origin Code Academy
 
@@ -24,6 +24,6 @@ Let's do this!
 
 Cheers,
 
-##### {{instructorName}}
+##### Cameron Wilby
 
-* Twitter: [@{{twitterHandle}}](https://twitter.com/{{twitterHandle}})
+* Twitter: [@cameronwilby](https://twitter.com/cameronwilby)
