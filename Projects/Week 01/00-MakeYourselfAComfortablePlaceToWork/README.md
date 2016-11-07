@@ -80,7 +80,7 @@ Make sure you have signed up for all the necessary accounts and installed the ne
 [Back to top](#table-of-contents)
 
 - [ ] Review our [Coding Standards](https://github.com/OriginCodeAcademy/Syllabus/blob/master/Best%20Practices/Coding%20Standards/Frontend/Front-end%20Coding%20Standards.md) for Week 1
-- [ ] Complete [01-JavaScriptExercises]()
+- [ ] Complete [01-JavaScriptExercises](https://github.com/OriginCodeAcademy/Cohort7/blob/master/Projects/Week%2001/01-JavaScriptExercises/README.md)
 - [ ] `Extra` Read the first chapter of [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) by Kyle Simpson
 
 ### Finished?
