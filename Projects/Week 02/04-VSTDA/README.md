@@ -1,6 +1,6 @@
 # Very Simple Todo App
 
-# DUE EOD Thursday
+# DUE BOD Friday
 
 In this project you are going to build a Todo app using AngularJS that allows users to enter their todo items and prioritize them based on their importance.
 
