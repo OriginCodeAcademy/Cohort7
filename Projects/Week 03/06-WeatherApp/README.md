@@ -29,6 +29,6 @@ In this assignment, you will be building an Angular application that allows a us
 
 ## Turn in instructions
 * Push your changes to GitHub 
-* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/2016-CW-FallCohort/issues/new?title=06-WeatherApp&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20How%20was%20it%20working%20with%20APIs%20for%20the%20first%20time%3F%0A%0A3.%20What%20was%20the%20most%20difficult%20part%20about%20working%20with%20an%20API%3F%0A%0A4.%20What's%20your%20favorite%20part%20about%20this%20assignment%3F)
+* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/Cohort7/issues/new?title=06-WeatherApp&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20How%20was%20it%20working%20with%20APIs%20for%20the%20first%20time%3F%0A%0A3.%20What%20was%20the%20most%20difficult%20part%20about%20working%20with%20an%20API%3F%0A%0A4.%20What's%20your%20favorite%20part%20about%20this%20assignment%3F)
   * Include a link to your repository in the description
   * Answer the questions filled out for you in the description
