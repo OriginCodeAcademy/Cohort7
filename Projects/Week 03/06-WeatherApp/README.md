@@ -14,8 +14,7 @@ In this assignment, you will be building an Angular application that allows a us
 3. Open this folder in your favorite text editor (Ours is Sublime!)
 4. Create an `index.html` file and a corresponding `index.js` file.
 5. Make use of the following AngularJS features to build this application.
-  - Create a `factory` and inject a `$http` service to be used for calling the OpenWeatherMap API. (Remember, seperation of concerns!)
-  - Create a `controller` and inject the factory you created above. Figure out the code you'll need to write to facilitate the given requirements.
+  - Create a `controller`. The code for this controller will be very similar in nature to your previous assignment, except it will now call the OpenWeatherMap API.
   - Create an HTML Template to bind the information received from OpenWeatherMap to a view.
   
 ## Requirements
