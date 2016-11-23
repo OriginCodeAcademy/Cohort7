@@ -22,7 +22,7 @@ You should make use of Angular JS, Bootstrap and the OMDB API (http://omdbapi.co
    |__ search
       |__ search.controller.js
    |__ app.module.js
- |__ index.html
+|__ index.html
 ```
 5. Make use of the following AngularJS features to build this application.
   - Create a `factory` and inject a `$http` service to call the OMDB API.
