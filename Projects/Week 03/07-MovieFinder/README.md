@@ -15,14 +15,14 @@ You should make use of Angular JS, Bootstrap and the OMDB API (http://omdbapi.co
 4. Create a file structure similar to the following (Folder by feature)
 ```
 /
-|__ bower_components
-|__ app
-   |__ core
-      |__ movie.factory.js
-   |__ search
-      |__ search.controller.js
-   |__ app.module.js
-|__ index.html
+|__ bower_components (folder)
+|__ app (folder)
+   |__ core (folder)
+      |__ movie.factory.js (file)
+   |__ search (folder)
+      |__ search.controller.js (file)
+   |__ app.module.js (file)
+|__ index.html (file)
 ```
 5. Make use of the following AngularJS features to build this application.
   - Create a `factory` and inject a `$http` service to call the OMDB API.
