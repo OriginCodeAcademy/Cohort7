@@ -21,16 +21,10 @@ You should make use of Angular JS, Bootstrap and the OMDB API (http://omdbapi.co
       |__ movie.factory.js
    |__ search
       |__ search.controller.js
-      |__ search.html
-   |__ detail
-      |__ detail.controller.js
-      |__ detail.html
    |__ app.module.js
-   |__ index.html
-
+ |__ index.html
 ```
 5. Make use of the following AngularJS features to build this application.
-  - Configure routing using the `angular-ui-router` package to create two seperate states. One for the Search view, and one for the Detail view.
   - Create a `factory` and inject a `$http` service to call the OMDB API.
   - Create a `controller` and factory you created above **DO NOT USE `$scope`**. Figure out the code you'll need to write to facilitate the given requirements.
   
@@ -40,7 +34,6 @@ You should make use of Angular JS, Bootstrap and the OMDB API (http://omdbapi.co
 * Must be able to view more information for a particular movie. (The design of this page is up to you!)
 
 ## Helpful Links
-* https://scotch.io/tutorials/angular-routing-using-ui-router
 * https://docs.angularjs.org/api/ng/service/$http
 * http://www.sitepoint.com/api-calls-angularjs-http-service/
 
